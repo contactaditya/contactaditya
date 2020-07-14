@@ -1,4 +1,6 @@
-### Hi, My name is Aditya and I am a software engineer. If you want to collaborate or work with me please feel free to reach out to me at: contactadityag@gmail.com 👋
+### Hi, 
+
+My name is Aditya and I am a software engineer. If you want to collaborate or work with me please feel free to reach out to me at: contactadityag@gmail.com.
 
 <!--
 **contactaditya/contactaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
